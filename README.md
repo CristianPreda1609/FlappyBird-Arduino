@@ -30,15 +30,17 @@
 
 ## Hardware Design
 | Components  | Pieces |
-| ----------- | ----------- |
+| ----------------------- | -- |
 | Arduino                 | 1  |
 | Small Breadboard        | 1  |
 |OLED IIC 0.96" 128x64 Y&B| 1  |
 |Buzzer                   | 1  |
 |JoyStick                 | 1  |
 |Wires                    |    |
-![alt text](Pictures/image.png)
-![alt text](Pictures/image-1.png)
+
+![Electric_Scheme](Pictures/image.png)
+![Hardware_Wokwi](Pictures/image-1.png)
+![Hardware](Pictures/Hardware.jpeg)
 ## Software Design
 
 ## Results 
