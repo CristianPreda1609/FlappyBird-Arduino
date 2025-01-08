@@ -99,15 +99,7 @@ For developing the Flappy Bird application on Arduino, I used PlatformIO in Visu
 
 These modules and functions work together to create a complete and interactive gaming experience on the Arduino platform.
 ## Results 
-<iframe
-	width="560"
-	height="315"
-	src="https://www.youtube.com/embed/0a0jf6hU-mo"
-	title="YouTube video player"
-	frameborder="0"
-	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-	allowfullscreen
-></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0a0jf6hU-mo/0.jpg)](https://www.youtube.com/watch?v=0a0jf6hU-mo)
 
 
 ## Conclusions
