@@ -71,8 +71,9 @@ For developing the Flappy Bird application on Arduino, I used PlatformIO in Visu
 - **Main Menu:**
     - Accessed by pressing the joystick's button.
     - To exit, press the button again.
+    - To go back in the main menu without changing anything press the button again.
     - Up/Down navigation using the joystick.
-    - Move the joystick to the left to select and to the right to go back from a submenu to the main menu.
+    - Move the joystick to the left to scroll in the submenu and to the right to select a submenu to the main menu.
     - It has 3 submenus which are:
         - Difficulty
         - Character selection
