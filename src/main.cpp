@@ -114,7 +114,6 @@ void menu() {
       display.setCursor(20, 5);
       display.print("Character");
       drawBitmap(55, 25, graphics[inMeniuValue]);
-      // Debug prints for analog readings
       int vrxValue = analogRead(VRX_PIN);
       int vryValue = analogRead(VRY_PIN);
       Serial.print("VRX: ");
